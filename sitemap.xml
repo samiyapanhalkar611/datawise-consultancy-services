@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://datawisecs.com/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://datawisecs.com/about-datawise-consultancy-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/our-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/solutions.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/industries.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/contact-datawise-consultancy-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Service Pages -->
+  <url>
+    <loc>https://datawisecs.com/services/oracle-e-business-suite-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/oracle-food-and-beverage-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/oracle-project-management.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/enterprise-performance-management.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/database-managed-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/business-intelligence-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/business-transformation-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://datawisecs.com/services/technical-staffing-services.php</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://datawisecs.com/datawise-consultancy-services-cookies-policy.php</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
